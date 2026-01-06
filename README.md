@@ -1,14 +1,7 @@
 # datafun-01-textbook
 
-> This repository is deprecated and archived.
+<mark>**DEPRECATED & ARCHIVED**</mark>
 
-It reflects an earlier `pip` and `venv` workflow.
+This repository used an earlier `pip` / `venv` workflow.  
 
-## Replacement
-
-The actively maintained replacement uses `uv` and is available at:
-[https://github.com/denisecase/IntroToPython](https://github.com/denisecase/IntroToPython)
-
-No further updates will be made to this repository.
-
-Last updated: 2026-01
+<mark>**Use instead: https://github.com/denisecase/IntroToPython (uv-based)**</mark>
